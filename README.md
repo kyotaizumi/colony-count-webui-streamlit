@@ -1,5 +1,6 @@
 ## Colony Counter
 このプロジェクトは、アップロードされた画像からコロニーを検出し、その数をカウントするStreamlitアプリケーションです。
+公開リンク:https://u-tokyo-ac-urban-students.streamlit.app/
 
 ## 必要なパッケージ
 このプロジェクトを実行するには、以下のPythonパッケージが必要です。
